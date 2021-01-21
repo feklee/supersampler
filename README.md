@@ -7,15 +7,19 @@ photo. A small part in the advance mechanism breaks easily. I think I
 broke it when rewinding the film without pressing the button at the
 bottom.
 
+![Photo of the camera](images/camera.jpg)
+
 I then created 3D prints for the broken parts.
+
+![Photo of the broken part and the 3D prints](images/parts.jpg)
 
 Samples were printed by [WeNext][2] in:
 
-  * Somos GP Plus 14122 (white resin, SLA)
+  * Top left: Somos GP Plus 14122 (white resin, SLA)
   
-  * Somos WaterShed XC 11122 (clear resin, SLA)
+  * Bottom left: Somos WaterShed XC 11122 (clear resin, SLA)
   
-  * HP 3D High Reusability PA 12 (black nylon, MJF)
+  * Bottom right: HP 3D High Reusability PA 12 (black nylon, MJF)
   
 The Somos GP Plus 14122 part broke on first try, possibly when
 rewinding the film after successfully shooting around 12 exposures
