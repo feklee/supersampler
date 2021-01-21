@@ -28,6 +28,9 @@ Note that when replacing the part, it is better not to tighten the
 screws of the advance mechanism’s housing too tight. Otherwise the
 string won’t pull back in.
 
+For instructions about disassembling the camera, see [Justin De La
+Ornellas’][3] [Supersampler Mod][4].
+
 
 License
 =======
@@ -42,3 +45,5 @@ as published by Sam Hocevar. See the COPYING file for more details.
 
 [1]: https://microsites.lomography.com/supersampler/
 [2]: https://www.wenext.hk/
+[3]: https://live-fts.flickr.com/photos/ornellas/
+[4]: https://live-fts.flickr.com/photos/ornellas/sets/72157625111029543/
