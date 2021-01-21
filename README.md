@@ -9,7 +9,8 @@ bottom.
 
 ![Photo of the camera](images/camera.jpg)
 
-I then created a model of the broken part.
+I then created a model of the broken part in Rhino 3D. You may find
+the exported STL in this repository.
 
 ![Photo of the broken part and the 3D prints](images/parts.jpg)
 
