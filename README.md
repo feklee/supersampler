@@ -9,11 +9,11 @@ bottom.
 
 ![Photo of the camera](images/camera.jpg)
 
-I then created 3D prints for the broken parts.
+I then created a model of the broken part.
 
 ![Photo of the broken part and the 3D prints](images/parts.jpg)
 
-Samples were printed by [WeNext][2] in:
+Parts were 3D printed by [WeNext][2] in:
 
   * Top left: Somos GP Plus 14122 (white resin, SLA)
   
