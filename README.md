@@ -20,7 +20,7 @@ Parts were 3D printed by [WeNext][2] in:
 
   * Top right: Somos GP Plus 14122 (white resin, SLA)
   
-  * Bottom right: FS3300PA (white nylon, SLS)
+  * Bottom left: FS3300PA (white nylon, SLS)
   
 An earlier design Somos GP Plus 14122 part broke quickly, possibly
 when rewinding the film after successfully shooting around 12
