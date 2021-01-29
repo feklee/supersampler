@@ -1,4 +1,4 @@
-Introduction
+1Introduction
 ============
 
 The [Lomo Supersampler][1] is an analog camera which takes four
@@ -27,14 +27,26 @@ when rewinding the film after successfully shooting around 12
 exposures before the advance mechanism got stuck.
 
 Currently in the camera is the HP 3D High Reusability PA 12, sanded
-down slightly.
+down slightly. With a knife I scraped away a bit of the plastic on the
+inside to make the part not sit too tight. I got several prints, and
+the tolerances varied quite a lot.
 
 Note that when replacing the part, it is better not to tighten the
 screws of the advance mechanism’s housing too tight. Otherwise the
 string won’t pull back in.
 
 For instructions about disassembling the camera, see [Justin De La
-Ornellas’][3] [Supersampler Mod][4].
+Ornellas’][3] [Supersampler Mod][4]. Basically:
+
+ 1. Remove four screws on the outside.
+  
+ 2. Remove two screws on the inside.
+  
+ 3. Pull out the rewind knob.
+  
+ 4. Press down the tiny rewind button and pull the camera mechanism
+    out of the case. Be careful not to pop out the red/green indicator
+    at the bottom, although it is easy to reseat.
 
 
 License
