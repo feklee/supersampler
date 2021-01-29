@@ -16,15 +16,15 @@ the exported STL in this repository.
 
 Parts were 3D printed by [WeNext][2] in:
 
-  * Top left: Somos GP Plus 14122 (white resin, SLA)
+  * Top left: HP 3D High Reusability PA 12 (black nylon, MJF)
+
+  * Top right: Somos GP Plus 14122 (white resin, SLA)
   
-  * Bottom left: Somos WaterShed XC 11122 (clear resin, SLA)
+  * Bottom right: FS3300PA (white nylon, SLS)
   
-  * Bottom right: HP 3D High Reusability PA 12 (black nylon, MJF)
-  
-The Somos GP Plus 14122 part broke on first try, possibly when
-rewinding the film after successfully shooting around 12 exposures
-before the advance mechanism got stuck.
+An earlier design Somos GP Plus 14122 part broke quickly, possibly
+when rewinding the film after successfully shooting around 12
+exposures before the advance mechanism got stuck.
 
 Currently in the camera is the HP 3D High Reusability PA 12, sanded
 down slightly.
