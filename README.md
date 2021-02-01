@@ -1,4 +1,4 @@
-1Introduction
+Introduction
 ============
 
 The [Lomo Supersampler][1] is an analog camera which takes four
